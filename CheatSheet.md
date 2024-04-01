@@ -121,4 +121,4 @@ For debugging, use visual elements like label.new or line.new.
 - Avoid Repainting: Be aware of repainting, especially in strategies. Historical data in backtesting is not predictive.
 - Versioning: Always specify the Pine Script version for compatibility and future reference.
 
-This cheat sheet offers a foundational overview for getting started with Pine Script v5. For in-depth exploration, refer to the official TradingView Pine Script documentation.
+This cheat sheet offers a foundational overview for getting started with Pine Script v5. For in-depth exploration, refer to the official TradingView [Pine Script™ v5 User Manual](https://www.tradingview.com/pine-script-docs/en/v5/index.html#pine-script-version-user-manual).
